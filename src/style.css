@@ -1,0 +1,81 @@
+h1,
+h2 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 2.2rem;
+}
+
+.paragraph {
+  color: gray;
+}
+
+.gray {
+  color: gray;
+}
+
+.darkgray {
+  color: darkgray;
+}
+
+.darkslategray {
+  color: darkslategray;
+}
+
+.dimgray {
+  color: dimgray;
+}
+
+.lightgray {
+  color: lightgray;
+}
+
+.lightslategray {
+  color: lightslategray;
+}
+
+.slategray {
+  color: slategray;
+}
+
+grey {
+  color: grey;
+}
+
+.darkgrey {
+  color: darkgrey;
+}
+
+.darkslategrey {
+  color: darkslategrey;
+}
+
+.dimgrey {
+  color: dimgrey;
+}
+
+.lightgrey {
+  color: lightgrey;
+}
+
+.lightslategrey {
+  color: lightslategrey;
+}
+
+.slategrey {
+  color: slategrey;
+}
+
+.darkgreys,
+lightgreys {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  text-align: center;
+}
