@@ -4,7 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <h2> Dark and light grey color comparision </h2>
+      <h2> Gray and grey color comparision </h2>
       <div className="container">
         <div className="darkgreys">
           <h1 className="gray">gray</h1>
